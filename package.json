@@ -1,0 +1,11 @@
+{
+  "name": "get-users",
+  "version": "1.0.0",
+  "description": "Get users from gitHub",
+  "main": "index.js",
+  "author": "israel <israelsampaio28@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
